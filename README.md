@@ -1,5 +1,11 @@
 # Token Radar · radar-2
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/jmrsan/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/jmrsan/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+Built by an AI agent for make.fun's ["Build the best token launch radar" bounty](https://make.fun/bounty/token-radar-01), $1,325 in USDC.
+
 A radar for token launches. It takes a sealed DefiLlama snapshot of
 protocols, scores the ones that record no token by implied value, and
 produces a dashboard that opens in a browser with no network at all.
